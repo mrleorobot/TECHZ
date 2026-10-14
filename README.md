@@ -1,29 +1,35 @@
-<div align="center">
-  <h1>TECHZ</h1>
-  <p>Plataforma tech com foco em comunidade e conteúdo educacional para desenvolvedores.</p>
-  <p><strong>Comunidade ativa de desenvolvedores.</strong></p>
-</div>
+# TECHZ
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Vite-333333?style=flat-square&logo=vite" /> <img src="https://img.shields.io/badge/Tailwind-333333?style=flat-square&logo=tailwind" />
-</div>
+Projeto em grupo de um site sobre tecnologia, desenvolvido com HTML e CSS. Reúne páginas sobre smartphones, Tesla, robótica e exploração espacial.
 
-<br>
+## Como visualizar
 
-## 🚀 Sobre
+Baixe ou clone o repositório e abra [TechZ/index.html](TechZ/index.html) no navegador.
 
-Plataforma tech com foco em comunidade e conteúdo educacional para desenvolvedores.
+```bash
+git clone https://github.com/mrleorobot/TECHZ.git
+```
 
-**Resultado:** Comunidade ativa de desenvolvedores.
+O site é estático e pode ser consultado diretamente pelos arquivos HTML.
 
-## 🛠️ Tecnologias
+## Páginas
 
-React, Vite, Tailwind
+| Arquivo | Conteúdo |
+| --- | --- |
+| [TechZ/index.html](TechZ/index.html) | Página inicial |
+| [TechZ/smartphone.html](TechZ/smartphone.html) | Smartphones |
+| [TechZ/cybertaxi.html](TechZ/cybertaxi.html) | Cyber Táxi |
+| [TechZ/optimus.html](TechZ/optimus.html) | Robô Optimus |
+| [TechZ/nasa.html](TechZ/nasa.html) | Exploração espacial |
+| [TechZ/sobrenos.html](TechZ/sobrenos.html) | Sobre o projeto |
+| [TechZ/styles.css](TechZ/styles.css) | Estilos do site |
 
-## 📁 Repositório
+## Contexto
 
-Parte do portfólio de <a href="https://mrleorobot.github.io">Leonilson Souza</a>.
+Este repositório registra um trabalho em grupo. Os textos da página inicial incluem publicações de novembro de 2024 e devem ser lidos nesse contexto.
 
-## 📝 Licença
+[Portfólio de Leonilson Souza](https://mrleorobot.github.io/)
+
+## Licença
 
 MIT © Leonilson Souza
